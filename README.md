@@ -3,6 +3,6 @@
 Equipo no.17:
 
    - Bernal Rodríguez Carolina.
-   - Vázquez Valdez Carlos.
+   - Velázquez Valdez Carlos.
    - Zamudio Guzmán Linette.
 
