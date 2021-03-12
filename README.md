@@ -1,2 +1,8 @@
-# Proyecto_Python_Equipo17
-Proyecto correspondiente al módulo 3: Procesamiento de datos con Python. De BEDU-Santander.
+# Violencia contra la mujer. 
+## Proyecto BEDU-Santander: Python.
+Equipo no.17:
+
+   - Bernal Rodríguez Carolina.
+   - Vázquez Valdez Carlos.
+   - Zamudio Guzmán Linette.
+
